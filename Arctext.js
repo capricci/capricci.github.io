@@ -1,5 +1,4 @@
-<script type="text/javascript">
-	   /**
+       /**
 	 * Arctext.js
 	 * A jQuery plugin for curved text
 	 * http://www.codrops.com
@@ -393,4 +392,3 @@
 	      return false;
     });
     });
-</script>
