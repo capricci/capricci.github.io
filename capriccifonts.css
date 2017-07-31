@@ -25,19 +25,3 @@
   src: local("Helvetica Neue Regular");
   font-weight: 200;
 }
-
-html {
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Original Yu Gothic", "Yu Gothic", YuGothic, Verdana, Meiryo, "M+ 1p", sans-serif;
-}
-
-/* IE10以上 */
-@media all and (-ms-high-contrast: none)  {
-  html {
-    font-family: Verdana, Meiryo, sans-serif;
-  }
-}
-@media all and (-ms-high-contrast: active) {
-  html {
-    font-family: Verdana, Meiryo, sans-serif;
-  }
-}
